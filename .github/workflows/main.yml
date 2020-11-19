@@ -24,4 +24,3 @@ jobs:
         server-dir: /bnfreetaxservices.org/
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        dry-run: true
