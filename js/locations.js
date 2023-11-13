@@ -12,7 +12,7 @@ $(document).ready(function() {
 	$("#HCC").removeClass("hidden");
 	$("#MCCA").addClass("hidden");
 	$("#NAC").addClass("hidden");
-	$("#google_map").html("<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6064.621838804782!2d-89.01486277304684!3d40.53471950024604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8274347537251de6!2sHeartland+Community+College!5e0!3m2!1sen!2sus!4v1386207355326' width='400' height='300' frameborder='0' style='border:0'></iframe>");
+	$("#google_map").html("<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1516.1609232781145!2d-89.0144083144348!3d40.534478051318494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b7159363f3377%3A0xbb118746771f703f!2sInstructional%20Commons%20North%2C%20Vermillion%20Way%2C%20Normal%2C%20IL%2061761!5e0!3m2!1sen!2sus!4v1699841788133!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>");
   });
   
   $( "#MCCA_label" ).click(function() {
