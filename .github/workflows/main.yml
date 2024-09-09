@@ -23,4 +23,4 @@
 #        server: ftp.bnfreetaxservices.org
 #        server-dir: /bnfreetaxservices.org/
 #        username: ${{ secrets.ftp_user }}
-        password: ${{ secrets.ftp_password }}
+#        password: ${{ secrets.ftp_password }}
