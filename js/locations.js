@@ -10,7 +10,7 @@ $(document).ready(function() {
 	$("#BPL").addClass("hidden");
 	$("#HCC").removeClass("hidden");
 	$("#NAC").addClass("hidden");
-	$("#google_map").html("<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.3263254035273!2d-89.01903032472063!3d40.53437908532496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b7159363f3377%3A0xbb118746771f703f!2sInstructional%20Commons%20North%2C%20Vermillion%20Way%2C%20Normal%2C%20IL%2061761!5e0!3m2!1sen!2sus!4v1732156069819!5m2!1sen!2sus' width='400' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>");
+	$("#google_map").html("<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d591.2552106936508!2d-89.01528405773443!3d40.53539209999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b71596baae021%3A0x5ac31298d37403f9!2sWorkforce%20Development%20Center%2C%201508%20Vermillion%20Way%2C%20Normal%2C%20IL%2061761!5e1!3m2!1sen!2sus!4v1763869868137!5m2!1sen!2sus' width='400' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>");
   });
   
   $( "#NAC_label" ).click(function() {
